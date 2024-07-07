@@ -52,11 +52,3 @@ The project is organized into four main packages:
 - Java
 - Swing for GUI components
 
-## Getting Started
-(Add instructions on how to set up and run your project)
-
-## Contributing
-(Add guidelines for contributing to your project)
-
-## License
-(Add your chosen license information)
